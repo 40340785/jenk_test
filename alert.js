@@ -1,2 +1,8 @@
-alert(document.domain)
+<html>
+ <body>
+  <script>
+    alert(document.domain)
+  </script>
+ </body>
+</html>
 
