@@ -1,8 +1,2 @@
-<html>
- <body>
-  <script>
-    alert(document.domain)
-  </script>
- </body>
-</html>
+<iframe src=javascript:alert(document.domain)>
 
